@@ -1,7 +1,7 @@
 # Hi there, I'm Dilukshan Sathiyamurthi 👋
 
-📍 Colombo, Sri Lanka | 📧 [dilukshan.js@gmail.com](mailto:dilukshan.js@gmail.com) | 📞 +94 769652623  
-[LinkedIn](https://www.linkedin.com/in/sdilukshan1) | [GitHub](https://github.com/Dilukshan-S)
+📍 Colombo, Sri Lanka | 📧 [dilukshan.js@gmail.com](mailto:dilukshan.js@gmail.com) |
+[LinkedIn](https://www.linkedin.com/in/sdilukshan1)
 
 ## 🎓 About Me
 I am a Software Engineering undergraduate at the **Informatics Institute of Technology** (affiliated with the University of Westminster). I'm passionate about full-stack development and mobile app development with expertise in **React.js**, **React Native**, and backend technologies like **Node.js** and **Nest.js**.
