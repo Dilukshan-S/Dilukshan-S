@@ -1,10 +1,9 @@
 # 👋 Hi there, I'm Dilukshan Sathiyamurthi
 
-📍 Colombo, Sri Lanka | 📧 [dilukshan.js@gmail.com](mailto:dilukshan.js@gmail.com) | 📞 +94 769652623  
-🔗 [LinkedIn](https://www.linkedin.com/in/sdilukshan1) | [GitHub](https://github.com/Dilukshan-S)
+📧 [Mail](mailto:dilukshan.js@gmail.com) | <img src="https://github.com/user-attachments/assets/3e7c6b20-8fcb-441e-80e2-011d4f3357fe" alt="LinkedIn" width="16" /> <a href="https://www.linkedin.com/in/sdilukshan1">LinkedIn</a>
 
 ## 🎓 About Me
-I'm a passionate Software Engineering undergraduate at the **Informatics Institute of Technology**, affiliated with the University of Westminster. With over a year of experience as a Full Stack Developer, I specialize in building scalable web and mobile applications using modern technologies like **React.js**, **React Native**, **Node.js**, and **Nest.js**.
+I'm a Software Engineering undergraduate at the **Informatics Institute of Technology**, affiliated with the University of Westminster. With over a year of experience as a Full Stack Developer, I specialize in building scalable web and mobile applications using modern technologies like **React.js**, **React Native**, **Node.js**, and **Nest.js**.
 
 ## 🛠️ Tech Stack
 ### Languages:
@@ -35,35 +34,18 @@ I'm a passionate Software Engineering undergraduate at the **Informatics Institu
 ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat&logo=google-maps&logoColor=white)
 
 ## 📈 GitHub Stats
-![Dilukshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilukshan-S&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
+![Dilukshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilukshan-S&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ## 📊 Contribution Graph
-![Dilukshan's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dilukshan-S&theme=react)
+![Dilukshan's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dilukshan-S&theme=react-dark)
 
 ## 📚 Top Languages
-![Dilukshan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilukshan-S&layout=compact&hide_title=true&hide_border=true)
+![Dilukshan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilukshan-S&layout=pie&theme=radical)
 
-## 🏆 GitHub Streak
-![Dilukshan's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dilukshan-S&theme=tokyonight)
-
-## 🚀 Projects
-
-### 1. [Summarizer](https://github.com/Dilukshan-S/Summarizer)
-A system to generate video summaries using action detection and fallback clustering mechanisms.  
-**Technologies Used:** Python, Flask, React.js, Firebase, Material UI
-
-### 2. [Mindmate](https://github.com/Dilukshan-S/Mindmate)
-An app designed to detect negative emotions and provide suggestions for overcoming them.  
-**Technologies Used:** Python, Keras, Firebase, Flutter
-
-### 3. [HomeTeq E-commerce Platform](https://github.com/Dilukshan-S/HomeTeq)
-A responsive e-commerce website with user authentication and product management features.  
-**Technologies Used:** PHP, HTML, CSS, MySQL
+## 🔥 GitHub Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilukshan-S&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 
 ## 🌍 Languages
 - **English** (Fluent)
 - **Tamil** (Native)
 - **Sinhala** (Conversational)
-
-## 💬 Let's Connect!
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sdilukshan1) or directly via email at [dilukshan.js@gmail.com](mailto:dilukshan.js@gmail.com).
