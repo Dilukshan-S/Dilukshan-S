@@ -6,32 +6,38 @@
 ## 🎓 About Me
 I am a Software Engineering undergraduate at the **Informatics Institute of Technology** (affiliated with the University of Westminster). I'm passionate about full-stack development and mobile app development with expertise in **React.js**, **React Native**, and backend technologies like **Node.js** and **Nest.js**.
 
-I am dedicated to building responsive, scalable web and mobile applications, and I thrive in collaborative environments that allow me to learn new technologies and work on innovative solutions.
-
 ## 🛠️ Tech Stack
+
 ### Programming Languages:
-- **Java** | **Python** | **JavaScript** | **PHP**
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Frontend Development:
-- **React.js** | **React Native** | **HTML5** | **CSS3**
+### Frontend:
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Backend Development:
-- **Node.js** | **Nest.js** | **PHP**
+### Backend:
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-### Mobile Development:
-- **React Native** | **React Navigation** | **API Integration**
-
-### Databases:
-- **Firebase/Firestore** | **MySQL** | **MongoDB**
+### Database:
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Other Tools & Technologies:
-- **RESTful APIs** | **Git** | **Google Maps API**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ## 📈 GitHub Stats
 ![Dilukshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilukshan-S&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
 
-## 🚀 Projects
+## 📊 Contribution Graph
+![Dilukshan's GitHub Contribution Graph](https://github.com/Dilukshan-S/github-readme-activity-graph/badge.svg)
 
+## 🚀 Projects
 ### 1. **[Summarizer (In Progress)](https://github.com/Dilukshan-S/Summarizer)**
 A system to generate video summaries using action detection and fallback clustering mechanisms.  
 **Technologies Used:** Python, Flask, React.js
@@ -44,23 +50,5 @@ An app designed to detect negative emotions and provide suggestions for overcomi
 A responsive e-commerce website with user authentication and product management features.  
 **Technologies Used:** PHP, HTML, CSS, MySQL
 
-## 🏆 Work Experience
-**Full Stack Developer Intern**  
-Cloud99X (Private) Limited, Sri Lanka | July 2023 – July 2024  
-- Developed dynamic web and mobile applications using **React.js**, **React Native**, **Node.js**, and **Nest.js**.
-- Integrated **Google Maps API** for enhanced geolocation services.
-- Collaborated on projects like **Vegatise**, **Cinemax**, and **Fishscope**.
-- Conducted code reviews and optimized application performance.
-
-## 🌍 Languages
-- **English** (Fluent)
-- **Tamil** (Native)
-- **Sinhala** (Conversational)
-
 ## 💬 Let's Connect!
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sdilukshan1) or directly via email at [dilukshan.js@gmail.com](mailto:dilukshan.js@gmail.com).  
-Check out my GitHub for more open-source projects and contributions! 
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sdilukshan1) or directly via email at [dilukshan.js@gmail.com](mailto:dilukshan.js@gmail.com).
