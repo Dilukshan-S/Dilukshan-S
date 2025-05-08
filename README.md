@@ -35,7 +35,7 @@ I am a Software Engineering undergraduate at the **Informatics Institute of Tech
 ![Dilukshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilukshan-S&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
 
 ## 📊 Contribution Graph
-![Dilukshan's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dilukshan-S)](https://github.com/Dilukshan-S/github-readme-activity-graph)
+![Dilukshan's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dilukshan-S)
 
 ## 🚀 Projects
 ### 1. **[Summarizer (In Progress)](https://github.com/Dilukshan-S/Summarizer)**
