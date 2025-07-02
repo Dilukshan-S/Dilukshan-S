@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dilukshan Sathiyamurthi
+# 👋 Hi there, I'm Dilukshan Sathiyamoorthy
 
 📧 [Mail](mailto:dilukshan.js@gmail.com) | <img src="https://github.com/user-attachments/assets/3e7c6b20-8fcb-441e-80e2-011d4f3357fe" alt="LinkedIn" width="16" /> <a href="https://www.linkedin.com/in/sdilukshan1">LinkedIn</a>
 
