@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dilukshan Sathiyamoorthy
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+there,+I'm+Dilukshan+Sathiyamoorthy;"></p>
 
 📧 [Mail](mailto:dilukshan.js@gmail.com) | <img src="https://github.com/user-attachments/assets/3e7c6b20-8fcb-441e-80e2-011d4f3357fe" alt="LinkedIn" width="16" /> <a href="https://www.linkedin.com/in/sdilukshan1">LinkedIn</a>
 
