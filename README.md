@@ -3,7 +3,7 @@
 📧 [Mail](mailto:dilukshan.js@gmail.com) | <img src="https://github.com/user-attachments/assets/3e7c6b20-8fcb-441e-80e2-011d4f3357fe" alt="LinkedIn" width="16" /> <a href="https://www.linkedin.com/in/sdilukshan1">LinkedIn</a>
 
 ## 🎓 About Me
-I'm a Software Engineering undergraduate at the **Informatics Institute of Technology**, affiliated with the University of Westminster. With over a year of experience as a Full Stack Developer, I specialize in building scalable web and mobile applications using modern technologies like **React.js**, **React Native**, **Node.js**, and **Nest.js**.
+I'm a Software Engineering undergraduate at the **Informatics Institute of Technology**, affiliated with the **University of Westminster**. With over a year of experience as a Full Stack Developer, I specialize in building scalable web and mobile applications using modern technologies like **React.js**, **React Native**, **Node.js**, and **Nest.js**.
 
 ## 🛠️ Tech Stack
 ### Languages:
