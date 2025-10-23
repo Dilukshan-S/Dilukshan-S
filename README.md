@@ -49,3 +49,6 @@ I'm a Software Engineering undergraduate at the **Informatics Institute of Techn
 - **English** (Fluent)
 - **Tamil** (Native)
 - **Sinhala** (Conversational)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dilukshan-S&label=Profile%20views&color=0e75b6&style=plastic)
+
