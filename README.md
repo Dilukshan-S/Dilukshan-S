@@ -58,6 +58,22 @@ With over a year of experience as a **Full Stack Developer**, I specialize in bu
 
 ---
 
+## 🔐 Cybersecurity Experience
+I also have **advanced practical Cybersecurity experience**, gained through an in-depth final-year module where I performed full security assessments across networks, services, and web applications.  
+My hands-on work included:
+
+- **OSINT & Passive Recon** — DNS enumeration, WHOIS, subdomain discovery, robots.txt analysis.  
+- **Active Scanning & Enumeration** — Nmap (TCP/UDP scans, firewall analysis, service versioning), Dirbuster, SSH/IMAP/Samba enumeration.  
+- **Network Exploitation** — ARP spoofing, MiTM attacks, packet interception, session hijacking.  
+- **Web Application Attacks** — SQL Injection, XSS, CSRF, command injection, CAPTCHA bypassing, remote file inclusion.  
+- **Cryptographic Attacks** — Hash identification, dictionary & brute-force attacks (Hydra, John), password cracking.  
+- **Social Engineering & Malware** — Phishing-site cloning, reverse shells, malicious payload creation, credential capture.  
+- **DoS Techniques** — SYN floods, ICMP floods, NSE-based DoS testing.
+
+This experience strengthened my understanding of **secure coding, exploit techniques, system hardening, and defense strategies**, enhancing how I design and build secure applications.
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
