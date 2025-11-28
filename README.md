@@ -89,7 +89,7 @@ This experience strengthened my understanding of **secure coding, exploit techni
 ---
 
 ## 🎯 Beyond Coding
-- 🏊‍♂️ Swimmer & marathon participant  
+- 🏊‍♂️ Swimmer, 🏏 Cricket player & 🏃‍♂️‍➡️marathon participant  
 - 💬 Active member of **Rotaract Club of IIT**, **IEEE**, and **Cutting Edge Committee**  
 
 ---
