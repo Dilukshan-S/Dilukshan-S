@@ -9,6 +9,8 @@ With over a year of experience as a **Full Stack Developer**, I specialize in bu
 💡 I’m passionate about **Machine Learning with Python**, exploring data analysis, model training, and intelligent automation.  
 🚀 I enjoy solving real-world problems through **AI-driven software engineering**.
 
+**🔗 Check out my Portfolio: [Dilukshan's Portfolio](https://dilukshan-s.github.io/my-portfolio/)**
+
 ### 🌱 Currently:
 - Enhancing my expertise in **AWS**, **Microservices**, and **Applied Machine Learning**.
 - Building my **portfolio** and **AI-driven full-stack projects**.
