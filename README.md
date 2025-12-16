@@ -83,19 +83,13 @@ This experience strengthened my understanding of **secure coding, exploit techni
 
 ## 📈 GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats-eta-ashy.vercel.app?user=Dilukshan-S&theme=dark&hide_border=true&border_radius=10" height="220" />
-      </a>
-    </td>
-    <td width="20"></td> 
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilukshan-S&layout=compact&theme=radical&hide_border=true&card_width=400&langs_count=8" height="220" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats-eta-ashy.vercel.app?user=Dilukshan-S&theme=dark&hide_border=true&border_radius=10" height="220" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilukshan-S&layout=compact&theme=radical&hide_border=true&card_width=400&langs_count=8&border_radius=10" height="220" alt="Top Languages" />
+</p>
 
 ---
 
