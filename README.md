@@ -2,6 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+there,+I'm+Dilukshan+Sathiyamoorthy;Full+Stack+Developer+%7C+AI+Enthusiast;Building+Scalable+and+Smart+Applications" />
 </p>
 
+## 🏆 GitHub Profile Trophy
+
+<!-- <img src="https://github-readme-trophy.vercel.app/?username=Dilukshan-S&margin-w=15&theme=algolia&no=Stars,Followers,Issues,PullRequest,Repositories" /> -->
+<img src="https://github-readme-trophy.vercel.app/?username=Dilukshan-S&theme=algolia&margin-w=15&title=Commits" />
+
+## 🎓 About Me
+I'm a **Software Engineering graduate** from the **Informatics Institute of Technology (IIT)**, affiliated with the **University of Westminster**.  
+With over a year of experience as a **Full Stack Developer**, I specialize in building scalable, high-performance web and mobile applications using **React.js**, **React Native**, **Node.js**, and **Nest.js**.
+
+💡 I’m passionate about **Machine Learning with Python**, exploring data analysis, model training, and intelligent automation.  
+🚀 I enjoy solving real-world problems through **AI-driven software engineering**.
+
 **🔗 Check out my [Portfolio](https://dilukshan-s.github.io/my-portfolio/)**
 
 ### 🌱 Currently:
